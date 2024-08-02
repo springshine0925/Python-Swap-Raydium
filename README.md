@@ -1,4 +1,4 @@
-# Solana Trader Python Client()
+# Solana Trader Python Client(Bloxroute.com)
 
 Provides a Python SDK for bloXroute's Solana Trader API.
 

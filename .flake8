@@ -1,0 +1,3 @@
+[flake8]
+exclude = bxsolana/proto
+ignore = E203, E501
